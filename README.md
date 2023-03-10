@@ -28,7 +28,8 @@
 
 * You can click on Save tab instead then it will automatically save your URL without entering it
 ![url_saver](https://github.com/SalahElshafey/URL_Saver/blob/main/Screenshots/5.png?raw=true)
--------------------------------------------------------------------
+_______________________________________________________________________________________________________________________________________________________________________
+
 ![url_saver](https://github.com/SalahElshafey/URL_Saver/blob/main/Screenshots/6.png?raw=true)
 
 * You can delete your save URL using  delete for removing one after a click.
