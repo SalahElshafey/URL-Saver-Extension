@@ -3,7 +3,7 @@
 
 ## Description
 
-**This is Chrome Extensions which saves your tab (Url) so that you can use it afterwards**
+**This is Chrome Extensions which saves your tab (Url) so that you can use it afterwards for navigation**
 
 *PS: I have used local storage in that project so that each URL stored has it's keyvalue in the local storage*
 ## Deployment
